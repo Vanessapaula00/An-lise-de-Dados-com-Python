@@ -15,3 +15,5 @@ Lógica da Aplicação:
 * 3 - Iniciar o processo de análise de dados
 * 4 - Gerar Gráficos 
 
+
+# Verificar estudo análise completa com gráficos no arquivo analise.ipynb
