@@ -16,4 +16,4 @@ Lógica da Aplicação:
 * 4 - Gerar Gráficos 
 
 
-# Verificar estudo análise completa com gráficos no arquivo analise.ipynb
+# Análise completa no arquivo analise.ipynb 
